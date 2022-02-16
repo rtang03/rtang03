@@ -20,7 +20,9 @@ FULL STACK BLOCKCHAIN ARCHITECT
 - Networking: Istio service mesh
 
 others:
-- microservice with domain driven development
+- microservice with Domain Driven Development
 - reactive functional programming
+- OAuth / OpenID Connect / Finacial Graded API
+- W3C Decentralized Identity
 
 📫 How to reach me: ask@dashslab.com
