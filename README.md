@@ -11,7 +11,7 @@ FULL STACK BLOCKCHAIN ARCHITECT
 ✨✨✨ I have good knowledge and hands-on in:
 - Blockchain - Hyperledger Fabric, Web3 stack
 - Coding - Typescript, GoLang, Python, Solidity
-- UI - NextJs, ReactJs, AngularJs, Material-ui
+- UI - NextJs, ReactJs, AngularJs, Material-ui, Micro-Frontend
 - API: gRpc, Apollo Graphql
 - Mobile - React Native
 - DevOps practice and implementation: GitHub Actions, CircleCI, ArgoCD gitOps, etc
