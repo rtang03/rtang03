@@ -16,7 +16,7 @@ FULL STACK BLOCKCHAIN ARCHITECT
 - Mobile - React Native
 - DevOps practice and implementation: GitHub Actions, CircleCI, ArgoCD gitOps, etc
 - Observability: Jaeger, Prometheus, Grafana, OpenTelemetry instrumentation
-- Cloud: K8S (GKE, EKS)
+- Cloud Deployment: K8S (GKE, EKS), Helm-charts
 - Networking: Istio service mesh
 
 others:
