@@ -2,10 +2,10 @@
 
 FULL STACK BLOCKCHAIN ARCHITECT
 
-- 🔭 I’m currently working on Web3 and Hyperledger projects
-- 🌱 I’m a fullstack Blockchain architect and developer
+- 🔥 I’m currently working on Web3 and Hyperledger projects
+- 🤟 I love games and anime
 - 🏆 I'm a Blockchain patent owner
-- 👯 I’m looking to collaborate on Privacy and Data Protection solution
+- 💰 I’m looking to collaborate on DeFi projects
 - 💬 I'm working with open-source projects
 
 ✨✨✨ I have good knowledge and hands-on in:
@@ -20,9 +20,10 @@ FULL STACK BLOCKCHAIN ARCHITECT
 - Networking: Istio service mesh
 
 others:
-- microservice with Domain Driven Development
-- reactive functional programming
-- OAuth / OpenID Connect / Finacial Graded API
+- Microservice with Domain Driven Development
+- Reactive functional programming
+- OAuth / OpenID Connect / Certificate Authority
 - W3C Decentralized Identity
+- Central Bank Digital Currency
 
 📫 How to reach me: ask@dashslab.com
