@@ -5,13 +5,13 @@ FULL STACK BLOCKCHAIN ARCHITECT
 - 🔥 I’m currently working on Web3 and Hyperledger projects
 - 🤟 I love games and anime
 - 🏆 I'm a Blockchain patent owner
-- 💰 I’m looking to collaborate on DeFi projects
+- 💰 I’m looking to collaborate on DeFi and SocialFi projects
 - 💬 I'm working with open-source projects
 
 ✨✨✨ I have good knowledge and hands-on in:
 - Blockchain - Hyperledger Fabric, Web3 stack
 - Coding - Typescript, GoLang, Python, Solidity
-- UI - NextJs, ReactJs, AngularJs, Material-ui, Micro-Frontend
+- UI - NextJs, ReactJs, AngularJs, Material-ui, Tailwindcss, Micro-Frontend
 - API: gRpc, Apollo Graphql
 - Mobile - React Native
 - DevOps practice and implementation: GitHub Actions, CircleCI, ArgoCD gitOps, etc
