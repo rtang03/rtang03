@@ -2,7 +2,7 @@
 
 FULL STACK BLOCKCHAIN ARCHITECT
 
-- 🔥 I’m currently working on Web3 and Hyperledger projects
+- 🔥 I’m currently working on Web3 and zero knowledge proof projects
 - 🤟 I love games and anime
 - 🏆 I'm a Blockchain patent owner
 - 💰 I’m looking to collaborate on DeFi and SocialFi projects
