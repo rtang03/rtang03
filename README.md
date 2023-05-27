@@ -9,8 +9,9 @@ FULL STACK BLOCKCHAIN ARCHITECT
 - 💬 I'm working with open-source projects
 
 ✨✨✨ I have good knowledge and hands-on in:
+- zkp: Circom, arkworks
 - Blockchain - Hyperledger Fabric, Web3 stack
-- Coding - Typescript, GoLang, Python, Solidity
+- Coding - Typescript, GoLang, Python, Solidity, Rust
 - UI - NextJs, ReactJs, AngularJs, Material-ui, Tailwindcss, Micro-Frontend
 - API: gRpc, Apollo Graphql
 - Mobile - React Native
