@@ -1,23 +1,24 @@
 ### Hi there
 
-FULL STACK BLOCKCHAIN ARCHITECT
+LEAD | COACH | FULLSTACK | ARCHITECT
 
-- 🔥 I’m currently working on Web3 and zero knowledge proof projects
-- 🤟 I love games and anime
-- 🏆 I'm a Blockchain patent owner
-- 💰 I’m looking to collaborate on DeFi and SocialFi projects
+- 🔥 I’m currently working on AI and Blockchain projects
+- 🤟 I love games and anime, hackathon
+- 🏆 I'm a DLT patent owner
+- 💰 I’m looking to collaborate on AI, DeFi and hacking projects
 - 💬 I'm working with open-source projects
 
 ✨✨✨ I have good knowledge and hands-on in:
-- zkp: Circom, arkworks
-- Blockchain - Hyperledger Fabric, Web3 stack
-- Coding - Typescript, GoLang, Python, Solidity, Rust
-- UI - NextJs, ReactJs, AngularJs, Material-ui, Tailwindcss, Micro-Frontend
-- API: gRpc, Apollo Graphql
-- Mobile - React Native
-- DevOps practice and implementation: GitHub Actions, CircleCI, ArgoCD gitOps, etc
+- AI: xGPT, Langchain
+- zkp: Circom, arkworks, RiscZero
+- Blockchain - Hyperledger Fabric, Web3 stack (e.g. etherjs, hardhat)
+- Coding - Typescript, GoLang, Python, Java, Solidity, Rust, R
+- UI - NextJs, ReactJs, Material-ui, Tailwindcss, Micro-Frontend
+- API: gRpc, Graphql, REST
+- Mobile - React Native, Flutter
+- DevOps practice and implementation: GitHub Actions, CircleCI, ArgoCD gitOps, Ansible etc
 - Observability: Jaeger, Prometheus, Grafana, OpenTelemetry instrumentation
-- Cloud Deployment: K8S (GKE, EKS), Helm-charts
+- Cloud Deployment: K8S (AKS, GKE, EKS), Helm-charts, operators
 - Networking: Istio service mesh
 
 others:
@@ -26,5 +27,7 @@ others:
 - OAuth / OpenID Connect / Certificate Authority
 - W3C Decentralized Identity
 - Central Bank Digital Currency
+- Asset Tokenization
+- Kali Linux
 
 📫 How to reach me: ask@dashslab.com
