@@ -11,7 +11,7 @@ LEAD | COACH | FULLSTACK | ARCHITECT
 ✨✨✨ I have good knowledge and hands-on in:
 - AI: xGPT, Langchain
 - zkp: Circom, arkworks, RiscZero
-- Blockchain - Hyperledger Fabric, Web3 stack (e.g. etherjs, hardhat)
+- Blockchain - Hyperledger Fabric, Besu, Corda, Web3 stack (e.g. etherjs, hardhat)
 - Coding - Typescript, GoLang, Python, Java, Solidity, Rust, R
 - UI - NextJs, ReactJs, Material-ui, Tailwindcss, Micro-Frontend
 - API: gRpc, Graphql, REST
