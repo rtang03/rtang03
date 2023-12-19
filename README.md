@@ -9,7 +9,7 @@ LEAD | COACH | FULLSTACK | ARCHITECT
 - 💬 I'm working with open-source projects
 
 ✨✨✨ I have good knowledge and hands-on in:
-- AI: xGPT, Langchain
+- AI: xGPT, Langchain, PyTorch
 - zkp: Circom, arkworks, RiscZero
 - Blockchain - Hyperledger Fabric, Besu, Corda, Web3 stack (e.g. etherjs, hardhat)
 - Coding - Typescript, GoLang, Python, Java, Solidity, Rust, R
